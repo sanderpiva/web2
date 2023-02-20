@@ -2,9 +2,9 @@ let num = document.querySelector('input#fnum')
 let lista = document.querySelector('select#flista')
 let res = document.querySelector('div#res')
 let valores = []
-let btn = window.document.getElementById('btnestilo');
+let btn = window.document.getElementById('btnestilo')
 btn.addEventListener('mouseenter', estilobotao)
-let btn2 = window.document.getElementById('btnestilo2');
+let btn2 = window.document.getElementById('btnestilo2')
 btn2.addEventListener('mouseenter', estilobotao2)
 
 
