@@ -1,4 +1,4 @@
-let btn = window.document.getElementById('btnestilo');
+let btn = window.document.getElementById('btnestilo')
 btn.addEventListener('mouseenter', estilobotao)
 
 function tabuada(){
